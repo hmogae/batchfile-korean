@@ -1,5 +1,6 @@
 @echo off
 echo @echo off >> patched.cmd
-echo echo ÆÐÄ¡µÊ. >> patched.cmd
+echo echo Ä†ÄÃ„Ä„Ä¾Ä˜. >> patched.cmd
 echo pause >> patched.cmd
 echo exit >> patched.cmd
+exit
